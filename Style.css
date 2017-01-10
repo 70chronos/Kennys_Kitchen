@@ -11,4 +11,18 @@ width: 1000px;
 height: 600px;
 background: #FEFF62;
 margin: 25px auto;
+border: solid 2px #255ca8;
+}
+
+h1 {
+text-align: center;
+font-family: "Times New Roman";
+font: 24pt;
+color: #5CA825;
+}
+
+hr {
+
+height: 2px;
+color: #000000;
 }
