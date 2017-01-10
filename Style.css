@@ -1,5 +1,14 @@
 body {
 
-
 background: #f5890c;
+text-align: center;
+
+}
+
+#main {
+
+width: 1000px;
+height: 600px;
+background: #FEFF62;
+margin: 25px auto;
 }
