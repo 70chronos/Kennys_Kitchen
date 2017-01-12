@@ -16,7 +16,10 @@ background: #FEFF62;
 margin: 25px auto;
 border: solid 2px #255ca8;
 }
-
+h2 {
+    font-size: 400%;
+    color:#9a2ccb;
+}
 h1 {
 text-align: center;
 font-family: "Comic Sans MS",cursive;
@@ -25,6 +28,10 @@ line-height:120%;
 padding:5% 0;
 color: #5CA825;
 }
+#im{
+    font-size: 300%;
+}
+
 
 h3{
 
